@@ -1,0 +1,1 @@
+# ads.txt placeholder - to be completed when the custom domain is claimed and AdSense is added.
