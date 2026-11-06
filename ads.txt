@@ -1,1 +1,2 @@
-# ads.txt placeholder - to be completed when the custom domain is claimed and AdSense is added.
+# ads.txt for Everyday Explained (howdaily.page) — Google AdSense
+google.com, pub-7756141236883081, DIRECT, f08c47fec0942fa0
