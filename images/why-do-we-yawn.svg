@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Illustration of a person yawning widely with arms stretched, in the morning light">
+  <rect width="1200" height="630" fill="#fdeec9"/>
+  <circle cx="960" cy="110" r="70" fill="#f7c948"/>
+  <circle cx="960" cy="110" r="95" fill="#f7c948" opacity="0.25"/>
+  <rect x="0" y="470" width="1200" height="160" fill="#e8b04b"/>
+  <rect x="120" y="380" width="180" height="90" fill="#c98a3d"/>
+  <rect x="900" y="360" width="200" height="110" fill="#c98a3d"/>
+  <circle cx="600" cy="330" r="95" fill="#f2c79b"/>
+  <path d="M505 330 Q600 300 695 330 L695 290 Q600 255 505 290 Z" fill="#4a3226"/>
+  <circle cx="562" cy="325" r="10" fill="#2b2b2b"/>
+  <circle cx="638" cy="325" r="10" fill="#2b2b2b"/>
+  <ellipse cx="600" cy="385" rx="42" ry="28" fill="#7a3b2e"/>
+  <ellipse cx="600" cy="392" rx="26" ry="14" fill="#b0513f"/>
+  <path d="M520 425 Q600 455 680 425 L680 470 L520 470 Z" fill="#f2c79b"/>
+  <path d="M430 470 Q380 380 340 330" stroke="#f2c79b" stroke-width="34" stroke-linecap="round" fill="none"/>
+  <path d="M770 470 Q820 380 860 330" stroke="#f2c79b" stroke-width="34" stroke-linecap="round" fill="none"/>
+  <circle cx="340" cy="330" r="22" fill="#f2c79b"/>
+  <circle cx="860" cy="330" r="22" fill="#f2c79b"/>
+  <path d="M470 470 L730 470 L760 630 L440 630 Z" fill="#3f6d8e"/>
+  <path d="M560 470 L640 470 L640 630 L560 630 Z" fill="#35607e"/>
+  <path d="M300 200 q15 -18 30 0 q15 -18 30 0" stroke="#8a6d3b" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path d="M840 250 q15 -18 30 0 q15 -18 30 0" stroke="#8a6d3b" stroke-width="6" stroke-linecap="round" fill="none"/>
+</svg>
