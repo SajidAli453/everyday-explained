@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Illustration of a person asleep in bed with a dream bubble showing a moon, stars and a winding path">
+  <rect width="1200" height="630" fill="#232c4d"/>
+  <circle cx="1050" cy="100" r="64" fill="#f7c948"/>
+  <circle cx="1028" cy="86" r="52" fill="#232c4d"/>
+  <circle cx="120" cy="80" r="4" fill="#ffffff"/>
+  <circle cx="240" cy="140" r="3" fill="#ffffff"/>
+  <circle cx="420" cy="70" r="4" fill="#ffffff"/>
+  <circle cx="620" cy="120" r="3" fill="#ffffff"/>
+  <circle cx="820" cy="70" r="4" fill="#ffffff"/>
+  <circle cx="180" cy="220" r="3" fill="#ffffff"/>
+  <circle cx="900" cy="200" r="3" fill="#ffffff"/>
+  <circle cx="60" cy="300" r="3" fill="#ffffff"/>
+  <path d="M0 470 Q300 430 600 470 T1200 470 L1200 630 L0 630 Z" fill="#2f3f6b"/>
+  <rect x="180" y="420" width="640" height="60" rx="14" fill="#7a4a2b"/>
+  <rect x="180" y="470" width="640" height="20" fill="#5e3820"/>
+  <rect x="200" y="380" width="180" height="70" rx="18" fill="#eef2f7"/>
+  <circle cx="300" cy="360" r="52" fill="#f2c79b"/>
+  <path d="M252 348 Q300 330 348 348 L348 322 Q300 300 252 322 Z" fill="#4a3226"/>
+  <path d="M272 362 Q282 368 292 362" stroke="#2b2b2b" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M308 362 Q318 368 328 362" stroke="#2b2b2b" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M296 384 Q304 390 312 384" stroke="#8a5a3b" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M380 400 Q520 360 640 420 L640 480 L380 480 Z" fill="#5b8bc0"/>
+  <path d="M380 400 Q520 360 640 420 L640 440 Q520 390 380 425 Z" fill="#6fa3d8"/>
+  <circle cx="420" cy="330" r="14" fill="#9db8d9" opacity="0.9"/>
+  <circle cx="470" cy="285" r="22" fill="#9db8d9" opacity="0.9"/>
+  <circle cx="560" cy="230" r="34" fill="#9db8d9" opacity="0.9"/>
+  <ellipse cx="760" cy="170" rx="200" ry="120" fill="#fdf6e3"/>
+  <ellipse cx="760" cy="170" rx="200" ry="120" fill="none" stroke="#e8b04b" stroke-width="6"/>
+  <circle cx="700" cy="130" r="34" fill="#f7c948"/>
+  <circle cx="688" cy="120" r="28" fill="#fdf6e3"/>
+  <circle cx="640" cy="100" r="3" fill="#2b2b2b"/>
+  <circle cx="830" cy="110" r="3" fill="#2b2b2b"/>
+  <circle cx="880" cy="150" r="3" fill="#2b2b2b"/>
+  <circle cx="740" cy="85" r="3" fill="#2b2b2b"/>
+  <path d="M640 220 Q700 190 760 215 T890 200" stroke="#7a9e6d" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <circle cx="640" cy="220" r="10" fill="#5b8bc0"/>
+  <circle cx="890" cy="200" r="10" fill="#e07856"/>
+  <path d="M600 200 q10 -12 20 0 q10 -12 20 0" stroke="#8a6d3b" stroke-width="4" stroke-linecap="round" fill="none"/>
+</svg>
