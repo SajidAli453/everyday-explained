@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Illustration of a split air conditioner on a living room wall blowing cool blue air, with the outdoor unit releasing warm air outside">
+  <rect width="1200" height="630" fill="#f4e3c2"/>
+  <circle cx="1020" cy="90" r="58" fill="#f7c948"/>
+  <circle cx="1020" cy="90" r="58" fill="none" stroke="#f0a832" stroke-width="6"/>
+  <rect x="0" y="470" width="1200" height="160" fill="#8a5a3b"/>
+  <rect x="0" y="470" width="1200" height="14" fill="#6e4529"/>
+  <rect x="70" y="300" width="60" height="170" fill="#7a4a2b"/>
+  <rect x="60" y="270" width="80" height="40" rx="8" fill="#c9572e"/>
+  <rect x="1050" y="290" width="80" height="180" fill="#2f6db3"/>
+  <rect x="1050" y="290" width="80" height="180" fill="none" stroke="#1f4d80" stroke-width="5"/>
+  <circle cx="1090" cy="380" r="42" fill="#dceeff"/>
+  <circle cx="1090" cy="380" r="42" fill="none" stroke="#1f4d80" stroke-width="5"/>
+  <path d="M1090 342 L1090 418 M1052 380 L1128 380 M1063 353 L1117 407 M1117 353 L1063 407" stroke="#1f4d80" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1090 250 q-30 -30 0 -60 q30 -30 0 -60" stroke="#e07856" stroke-width="7" stroke-linecap="round" fill="none" opacity="0.85"/>
+  <path d="M1120 250 q-28 -28 0 -56 q28 -28 0 -56" stroke="#e07856" stroke-width="6" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <path d="M200 60 L1000 60" stroke="#b98a5a" stroke-width="8" stroke-linecap="round"/>
+  <rect x="160" y="70" width="560" height="120" rx="18" fill="#eef2f7" stroke="#c7d2dd" stroke-width="4"/>
+  <rect x="196" y="102" width="488" height="12" rx="6" fill="#9db8d9"/>
+  <rect x="196" y="126" width="488" height="12" rx="6" fill="#9db8d9"/>
+  <rect x="196" y="150" width="488" height="12" rx="6" fill="#9db8d9"/>
+  <circle cx="656" cy="130" r="12" fill="#2f6db3"/>
+  <path d="M220 210 q60 26 120 6 q60 -20 120 4 q60 22 120 0" stroke="#5b8bc0" stroke-width="14" stroke-linecap="round" fill="none" opacity="0.85"/>
+  <path d="M260 258 q60 26 120 6 q60 -20 120 4 q60 22 120 0" stroke="#7aa8d8" stroke-width="12" stroke-linecap="round" fill="none" opacity="0.7"/>
+  <path d="M300 306 q60 26 120 6 q60 -20 120 4" stroke="#9cc0e8" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.55"/>
+  <path d="M700 130 L700 240" stroke="#b98a5a" stroke-width="6"/>
+  <circle cx="700" cy="256" r="26" fill="#f7c948"/>
+  <circle cx="700" cy="256" r="26" fill="none" stroke="#e0a92e" stroke-width="4"/>
+  <path d="M700 236 L700 276 M680 256 L720 256" stroke="#e0a92e" stroke-width="4" stroke-linecap="round"/>
+  <rect x="330" y="420" width="180" height="50" rx="10" fill="#5b8bc0"/>
+  <rect x="350" y="380" width="140" height="40" rx="10" fill="#6fa3d8"/>
+  <circle cx="560" cy="430" r="34" fill="#3d7a52"/>
+  <circle cx="500" cy="400" r="26" fill="#4c915f"/>
+  <circle cx="610" cy="405" r="24" fill="#4c915f"/>
+  <rect x="598" y="430" width="20" height="40" fill="#7a4a2b"/>
+</svg>
