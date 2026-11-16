@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaf5f4"/>
+      <stop offset="1" stop-color="#cfe8e2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1050" cy="90" r="70" fill="#f6c177" opacity="0.5"/>
+  <circle cx="1050" cy="90" r="45" fill="#f6c177" opacity="0.5"/>
+  <!-- lungs -->
+  <g fill="#e78f8f">
+    <path d="M480 130 C400 130 380 220 400 330 C415 420 460 450 490 430 L490 180 C490 150 490 130 480 130 Z"/>
+    <path d="M720 130 C800 130 820 220 800 330 C785 420 740 450 710 430 L710 180 C710 150 710 130 720 130 Z"/>
+  </g>
+  <g fill="#d96f6f" opacity="0.6">
+    <path d="M460 200 C440 240 440 300 455 350" stroke="#d96f6f" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <path d="M740 200 C760 240 760 300 745 350" stroke="#d96f6f" stroke-width="10" fill="none" stroke-linecap="round"/>
+  </g>
+  <!-- windpipe -->
+  <rect x="585" y="60" width="30" height="130" rx="14" fill="#f2b8b8"/>
+  <!-- diaphragm dome -->
+  <path d="M380 470 C450 380 750 380 820 470 C750 500 450 500 380 470 Z" fill="#2a9d8f"/>
+  <path d="M380 470 C450 380 750 380 820 470" stroke="#1d7a6e" stroke-width="6" fill="none"/>
+  <!-- phrenic nerve line with spark -->
+  <path d="M600 500 L600 560" stroke="#e76f51" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#f4a261">
+    <path d="M600 545 l10 22 22 3 -16 15 4 22 -20 -11 -20 11 4 -22 -16 -15 22 -3 Z"/>
+  </g>
+  <!-- hic sound waves -->
+  <g stroke="#2a9d8f" stroke-width="8" fill="none" stroke-linecap="round">
+    <path d="M920 200 A60 60 0 0 1 920 320"/>
+    <path d="M960 170 A95 95 0 0 1 960 350"/>
+    <path d="M1000 140 A130 130 0 0 1 1000 380"/>
+  </g>
+  <g font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#1d7a6e">
+    <text x="905" y="270">hic!</text>
+  </g>
+  <!-- glass of water -->
+  <g>
+    <path d="M180 420 L200 560 L320 560 L340 420 Z" fill="#bfe3ff" opacity="0.85"/>
+    <path d="M190 460 L330 460 L322 540 L198 540 Z" fill="#2e86de" opacity="0.7"/>
+    <rect x="170" y="410" width="180" height="16" rx="8" fill="#8a94a6"/>
+  </g>
+  <!-- plate with food -->
+  <g>
+    <ellipse cx="880" cy="545" rx="130" ry="28" fill="#f4f6f8"/>
+    <ellipse cx="880" cy="540" rx="95" ry="18" fill="#e8590c" opacity="0.85"/>
+    <circle cx="850" cy="536" r="10" fill="#ffd166"/>
+    <circle cx="890" cy="534" r="10" fill="#2f9e44"/>
+    <circle cx="915" cy="540" r="8" fill="#ffd166"/>
+  </g>
+</svg>
