@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaf5f4"/>
+      <stop offset="1" stop-color="#cfe8e2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- snowflake: the cold trigger -->
+  <g stroke="#7fb3d5" stroke-width="10" stroke-linecap="round">
+    <line x1="180" y1="80" x2="180" y2="200"/>
+    <line x1="128" y1="110" x2="232" y2="170"/>
+    <line x1="232" y1="110" x2="128" y2="170"/>
+    <line x1="180" y1="80" x2="160" y2="100"/>
+    <line x1="180" y1="80" x2="200" y2="100"/>
+    <line x1="180" y1="200" x2="160" y2="180"/>
+    <line x1="180" y1="200" x2="200" y2="180"/>
+  </g>
+  <circle cx="180" cy="140" r="16" fill="#7fb3d5"/>
+  <!-- music note: the feeling trigger -->
+  <g fill="#e8590c">
+    <ellipse cx="980" cy="180" rx="26" ry="20"/>
+    <rect x="1000" y="70" width="9" height="112"/>
+    <path d="M1000 70 C1040 85 1075 80 1095 105 L1095 125 C1075 100 1040 105 1000 92 Z"/>
+  </g>
+  <g stroke="#e8590c" stroke-width="6" stroke-linecap="round" opacity="0.7">
+    <line x1="900" y1="120" x2="880" y2="100"/>
+    <line x1="1120" y1="150" x2="1140" y2="130"/>
+  </g>
+  <!-- forearm with goosebumps -->
+  <path d="M120 630 L120 470 C300 400 500 380 700 400 C900 420 1050 460 1080 500 L1080 630 Z" fill="#f2c9a0"/>
+  <path d="M120 630 L120 560 C400 500 800 500 1080 560 L1080 630 Z" fill="#eab98c" opacity="0.55"/>
+  <!-- raised bumps -->
+  <g fill="#d99a6c">
+    <ellipse cx="260" cy="470" rx="26" ry="14"/>
+    <ellipse cx="420" cy="440" rx="26" ry="14"/>
+    <ellipse cx="580" cy="432" rx="26" ry="14"/>
+    <ellipse cx="740" cy="440" rx="26" ry="14"/>
+    <ellipse cx="900" cy="470" rx="26" ry="14"/>
+    <ellipse cx="340" cy="520" rx="24" ry="13"/>
+    <ellipse cx="500" cy="505" rx="24" ry="13"/>
+    <ellipse cx="660" cy="505" rx="24" ry="13"/>
+    <ellipse cx="820" cy="520" rx="24" ry="13"/>
+  </g>
+  <!-- hairs standing up -->
+  <g stroke="#5b3a29" stroke-width="6" stroke-linecap="round">
+    <line x1="260" y1="468" x2="238" y2="392"/>
+    <line x1="420" y1="438" x2="398" y2="362"/>
+    <line x1="580" y1="430" x2="580" y2="352"/>
+    <line x1="740" y1="438" x2="762" y2="362"/>
+    <line x1="900" y1="468" x2="922" y2="392"/>
+    <line x1="340" y1="518" x2="322" y2="448"/>
+    <line x1="500" y1="503" x2="500" y2="430"/>
+    <line x1="660" y1="503" x2="660" y2="430"/>
+    <line x1="820" y1="518" x2="838" y2="448"/>
+  </g>
+  <!-- shiver marks -->
+  <g stroke="#2f6f6a" stroke-width="7" stroke-linecap="round" fill="none" opacity="0.75">
+    <path d="M150 300 C170 280 150 260 170 240"/>
+    <path d="M1050 320 C1030 300 1050 280 1030 260"/>
+  </g>
+  <!-- label -->
+  <text x="600" y="600" font-family="Georgia, serif" font-size="30" fill="#2f6f6a" text-anchor="middle">Tiny muscles, standing hairs — a reflex from a furrier past</text>
+</svg>
