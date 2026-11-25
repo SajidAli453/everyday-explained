@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaf5f4"/>
+      <stop offset="1" stop-color="#cfe8e2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- sun -->
+  <circle cx="1050" cy="90" r="70" fill="#f6c177" opacity="0.5"/>
+  <circle cx="1050" cy="90" r="45" fill="#f6c177" opacity="0.5"/>
+  <g stroke="#f6c177" stroke-width="8" stroke-linecap="round">
+    <path d="M1050 0 L1050 18"/>
+    <path d="M1050 162 L1050 180"/>
+    <path d="M960 90 L978 90"/>
+    <path d="M1122 90 L1140 90"/>
+    <path d="M986 26 L999 39"/>
+    <path d="M1101 141 L1114 154"/>
+    <path d="M1114 26 L1101 39"/>
+    <path d="M999 141 L986 154"/>
+  </g>
+  <!-- face profile sneezing -->
+  <g>
+    <!-- head -->
+    <path d="M300 120 C380 90 470 110 500 170 C520 210 510 260 480 290 C460 310 430 320 400 315 L380 330 C360 345 330 340 320 320 L300 290 C280 250 270 170 300 120 Z" fill="#f2c9a0"/>
+    <!-- closed eye -->
+    <path d="M360 210 Q385 222 410 210" stroke="#7a4a21" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <!-- eyebrow -->
+    <path d="M355 185 Q385 172 415 184" stroke="#5b3a1e" stroke-width="7" fill="none" stroke-linecap="round"/>
+    <!-- nose -->
+    <path d="M470 210 C500 230 505 260 480 275 C460 285 440 275 445 255" stroke="#d9a06b" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <!-- open mouth -->
+    <ellipse cx="430" cy="310" rx="26" ry="16" fill="#8a2f2f"/>
+    <ellipse cx="430" cy="314" rx="14" ry="7" fill="#c25b5b"/>
+    <!-- hair -->
+    <path d="M295 130 C320 70 420 55 470 105 C480 115 485 130 480 145 C450 110 380 95 330 115 C310 122 300 128 295 130 Z" fill="#5b3a1e"/>
+  </g>
+  <!-- sneeze burst of air and particles -->
+  <g stroke="#2a9d8f" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.85">
+    <path d="M520 250 L640 200"/>
+    <path d="M520 270 L650 270"/>
+    <path d="M520 290 L640 340"/>
+  </g>
+  <g fill="#e76f51">
+    <circle cx="660" cy="190" r="10"/>
+    <circle cx="700" cy="270" r="12"/>
+    <circle cx="690" cy="350" r="9"/>
+    <circle cx="760" cy="230" r="7"/>
+    <circle cx="780" cy="300" r="8"/>
+  </g>
+  <g fill="#f4a261">
+    <circle cx="730" cy="160" r="6"/>
+    <circle cx="820" cy="360" r="6"/>
+    <circle cx="850" cy="250" r="5"/>
+  </g>
+  <!-- sound waves -->
+  <g stroke="#2a9d8f" stroke-width="8" fill="none" stroke-linecap="round">
+    <path d="M920 200 A60 60 0 0 1 920 320"/>
+    <path d="M960 170 A95 95 0 0 1 960 350"/>
+    <path d="M1000 140 A130 130 0 0 1 1000 380"/>
+  </g>
+  <g font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#1d7a6e">
+    <text x="905" y="270">atchoo!</text>
+  </g>
+  <!-- tissue box -->
+  <g>
+    <rect x="180" y="480" width="220" height="90" rx="12" fill="#2a9d8f"/>
+    <ellipse cx="290" cy="480" rx="80" ry="16" fill="#1d7a6e"/>
+    <path d="M250 470 Q290 420 330 470" fill="#f4f6f8"/>
+    <path d="M265 460 Q290 425 315 460" fill="#ffffff"/>
+    <text x="290" y="540" font-family="Georgia, serif" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle">tissues</text>
+  </g>
+  <!-- dust specks near the nose -->
+  <g fill="#8a94a6" opacity="0.7">
+    <circle cx="540" cy="180" r="5"/>
+    <circle cx="570" cy="150" r="4"/>
+    <circle cx="560" cy="210" r="4"/>
+    <circle cx="600" cy="190" r="3"/>
+  </g>
+</svg>
